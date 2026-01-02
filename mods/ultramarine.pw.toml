@@ -1,0 +1,13 @@
+name = "Ultramarine"
+filename = "ultramarine-1.21.1-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mlaQPFEe/versions/9RAlH3eL/ultramarine-1.21.1-0.6.3.jar"
+hash-format = "sha512"
+hash = "aeb63f05145403ce1eae4529c29fc68627974c5ac62e9e349ec713a39876e5c5090f9565acf42cd81321160c560c20e2c396445c90af5e60df5f27982f40132e"
+
+[update]
+[update.modrinth]
+mod-id = "mlaQPFEe"
+version = "9RAlH3eL"

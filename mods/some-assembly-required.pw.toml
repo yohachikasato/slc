@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "someassemblyrequired-5.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9739777a35e5c8a96e91ed3e866f31300650b7bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7155805
+project-id = 422951
